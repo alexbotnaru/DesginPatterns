@@ -1,0 +1,11 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õ×Ë®
+E
+java:S1172"/Remove this unused method parameter "employee".(¦’þð
+@
+java:S2114"%Remove or correct this "remove" call.(Áâæñýÿÿÿÿ
+F
+java:S2175"+A "List<Employee>" cannot contain a "List".(Áâæñýÿÿÿÿ
+A
+java:S1068	"&Remove this unused "id" private field.(þÓî«þÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×êÛßÿÿÿÿÿ
